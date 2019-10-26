@@ -12,14 +12,14 @@
         android:id="@+id/topWindow"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="40"
+        android:layout_weight="45"
         android:background="@android:color/holo_orange_light">
 
         <TextView
             android:id="@+id/topItem"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:text="Game Grid"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
@@ -31,13 +31,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_weight="40"
+        android:layout_weight="45"
         android:background="@android:color/darker_gray">
         <TextView
             android:id="@+id/middleItem"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:text="WorkSpace"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
@@ -50,17 +50,31 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_weight="20">
+        android:layout_weight="10">
 
-        <ScrollView
+        <TextView
+            android:id="@+id/searchItem"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:text="SEARCH" />
+
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
             <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:orientation="horizontal"
-                android:layout_gravity="center">
+                android:layout_gravity="left">
+
+                <Button
+                    android:id="@+id/testButton"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="5dp" />
 
                 <Button
                     android:layout_width="100dp"
@@ -68,32 +82,27 @@
                     android:layout_marginHorizontal="5dp" />
 
                 <Button
-                    android:layout_marginHorizontal="5dp"
                     android:layout_width="100dp"
-                    android:layout_height="100dp"/>
-                <Button
-                    android:layout_marginHorizontal="5dp"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"/>
-                <Button
-                    android:layout_marginHorizontal="5dp"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"/>
+                    android:layout_height="100dp"
+                    android:layout_marginHorizontal="5dp" />
 
                 <Button
-                    android:layout_marginHorizontal="5dp"
                     android:layout_width="100dp"
-                    android:layout_height="100dp"/>
+                    android:layout_height="100dp"
+                    android:layout_marginHorizontal="5dp" />
 
                 <Button
-                    android:layout_marginHorizontal="5dp"
                     android:layout_width="100dp"
-                    android:layout_height="100dp"/>
+                    android:layout_height="100dp"
+                    android:layout_marginHorizontal="5dp" />
 
-
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginHorizontal="5dp" />
 
             </LinearLayout>
-        </ScrollView>
+        </HorizontalScrollView>
     </LinearLayout>
 
 
