@@ -39,4 +39,9 @@ public class MainActivity extends AppCompatActivity {
     public void closeModal(View v) {
         myDialog.dismiss();
     }
+
+    @OnClick(R.id.runButton)
+    public void runGame() {
+        blockService.getCodeGenerationCallback();
+    }
 }

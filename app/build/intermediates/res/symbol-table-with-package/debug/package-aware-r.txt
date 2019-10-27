@@ -879,8 +879,6 @@ id listMode
 id list_item
 id message
 id middle
-id middleItem
-id middleWindow
 id multiply
 id mutator_procedure_def_header
 id mutator_procedure_def_recycler
@@ -1002,6 +1000,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout blockly_test
 layout blockly_unified_workspace
 layout blockly_variable_name_dialog
 layout category_label_view

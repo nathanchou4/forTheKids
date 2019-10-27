@@ -5,6 +5,9 @@ import androidx.annotation.NonNull;
 import com.google.blockly.android.AbstractBlocklyActivity;
 import com.google.blockly.android.codegen.CodeGenerationRequest;
 import com.google.blockly.android.codegen.LoggingCodeGeneratorCallback;
+import com.google.blockly.model.Block;
+import com.google.blockly.model.BlockExtension;
+import com.google.blockly.model.BlockFactory;
 import com.google.blockly.model.DefaultBlocks;
 
 import java.util.ArrayList;
