@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#Sun Oct 27 02:05:26 PDT 2019
-=======
-#Sat Oct 26 18:55:23 PDT 2019
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
+#Sun Oct 27 02:30:24 PDT 2019
 base.0=C\:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

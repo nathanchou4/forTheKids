@@ -15,7 +15,7 @@ import java.lang.Override;
 public class ModalFragment_ViewBinding implements Unbinder {
   private ModalFragment target;
 
-  private View view7f070030;
+  private View view7f070043;
 
   @UiThread
   public ModalFragment_ViewBinding(final ModalFragment target, View source) {
@@ -24,7 +24,7 @@ public class ModalFragment_ViewBinding implements Unbinder {
     View view;
     view = Utils.findRequiredView(source, R.id.close_modal_button, "field 'closeModalButton' and method 'closeModal'");
     target.closeModalButton = Utils.castView(view, R.id.close_modal_button, "field 'closeModalButton'", TextView.class);
-    view7f070030 = view;
+    view7f070043 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -44,7 +44,7 @@ public class ModalFragment_ViewBinding implements Unbinder {
     target.closeModalButton = null;
     target.step_forward_block = null;
 
-    view7f070030.setOnClickListener(null);
-    view7f070030 = null;
+    view7f070043.setOnClickListener(null);
+    view7f070043 = null;
   }
 }

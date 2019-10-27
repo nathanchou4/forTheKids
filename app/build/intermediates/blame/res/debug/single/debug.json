@@ -380,13 +380,12 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_turn.png.flat",
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\drawable\\right_turn.png"
-=======
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_top_start_hat_border.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-ldrtl-xhdpi-v17\\top_start_hat_border.9.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
@@ -777,13 +776,12 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_step_forward.png.flat",
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\drawable\\step_forward.png"
-=======
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_default_spinner_closed_item.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\layout\\default_spinner_closed_item.xml"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -906,21 +904,20 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e7201af0ac6a1eb782d2b896d1ec4242\\media-1.0.0\\res\\layout\\notification_template_media.xml"
-=======
-        "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_top_start_previous.9.png.flat",
-        "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-ldrtl-xxxhdpi-v17\\top_start_previous.9.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_if_else_mutator_dialog.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\layout\\if_else_mutator_dialog.xml"
     },
     {
+        "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_top_start_previous.9.png.flat",
+        "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-ldrtl-xxxhdpi-v17\\top_start_previous.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_statementinput_bottom_border.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-xxxhdpi-v4\\statementinput_bottom_border.9.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
@@ -1047,13 +1044,12 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e7201af0ac6a1eb782d2b896d1ec4242\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
-=======
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_value_input_external_shadow.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-xxxhdpi-v4\\value_input_external_shadow.9.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1076,17 +1072,16 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e7201af0ac6a1eb782d2b896d1ec4242\\media-1.0.0\\res\\layout\\notification_media_action.xml"
-=======
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_dropdown_background_opened.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-ldrtl-xxxhdpi-v17\\dropdown_background_opened.9.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_bottom_start_next_square_shadow.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-ldrtl-xxxhdpi-v17\\bottom_start_next_square_shadow.9.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
+    },
+    {
+        "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e7201af0ac6a1eb782d2b896d1ec4242\\media-1.0.0\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1123,10 +1118,6 @@
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_sections_list.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\layout\\sections_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_blockly_test.xml.flat",
-        "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\layout\\blockly_test.xml"
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_value_input_inline.9.png.flat",
@@ -1345,13 +1336,12 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\46da25c3e2ae6308b2227b660caa604d\\core-1.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left_turn.png.flat",
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\drawable\\left_turn.png"
-=======
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_drawer.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\drawable-hdpi-v4\\ic_drawer.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -1582,24 +1572,18 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-<<<<<<< HEAD
-=======
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_file_upload_white_24dp.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\drawable-hdpi-v4\\ic_file_upload_white_24dp.png"
     },
     {
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_modal.xml.flat",
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\layout\\test_modal.xml"
     },
     {
-<<<<<<< HEAD
-=======
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_reset_view.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\drawable-xhdpi-v4\\reset_view.png"
     },
     {
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\46da25c3e2ae6308b2227b660caa604d\\core-1.0.1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
@@ -1652,19 +1636,14 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\layout\\abc_search_view.xml"
     },
     {
-<<<<<<< HEAD
-=======
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_label.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\layout\\simple_label.xml"
     },
     {
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_modal_rounded_edge.xml.flat",
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\drawable\\modal_rounded_edge.xml"
     },
     {
-<<<<<<< HEAD
-=======
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_default_field_label.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\layout\\default_field_label.xml"
     },
@@ -1673,7 +1652,6 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-xxxhdpi-v4\\top_start_previous_connection.9.png"
     },
     {
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable\\abc_ic_clear_material.xml"
     },
@@ -1694,13 +1672,10 @@
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\drawable\\rounded_edge.xml"
     },
     {
-<<<<<<< HEAD
-=======
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_bottom_start_next.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-xhdpi-v4\\bottom_start_next.9.png"
     },
     {
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -2033,13 +2008,12 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_modal.xml.flat",
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\src\\main\\res\\layout\\fragment_modal.xml"
-=======
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_value_input_inline_connection.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-xhdpi-v4\\value_input_inline_connection.9.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
@@ -2068,8 +2042,6 @@
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
-<<<<<<< HEAD
-=======
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_top_start_default_border.9.png.flat",
@@ -2078,7 +2050,6 @@
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dummy_input_shadow.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-xhdpi-v4\\dummy_input_shadow.9.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_dialog_material_background.xml.flat",
@@ -2117,12 +2088,12 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_add_grey600_48dp.png.flat",
-        "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\drawable-xxhdpi-v4\\ic_add_grey600_48dp.png"
-    },
-    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_inset_field_border_shadow.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-ldrtl-xxxhdpi-v17\\inset_field_border_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_add_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\drawable-xxhdpi-v4\\ic_add_grey600_48dp.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_bottom_start_default_shadow.9.png.flat",
@@ -2425,13 +2396,12 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e7201af0ac6a1eb782d2b896d1ec4242\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
-=======
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_default_flyout_start.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\layout\\default_flyout_start.xml"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2622,17 +2592,16 @@
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e7201af0ac6a1eb782d2b896d1ec4242\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
-=======
+    },
+    {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_blockly_trash.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\e1626478fc175ce4d3b7056dfb7d375f\\jetified-blocklylib-core-0.9-beta.20180725\\res\\drawable-xhdpi-v4\\blockly_trash.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_top_start_default.9.png.flat",
         "source": "C:\\Users\\Nathan\\.gradle\\caches\\transforms-2\\files-2.1\\19b1d5abed3bef84e4930cdfbbf8aaa5\\jetified-blocklylib-vertical-0.9-beta.20180725\\res\\drawable-xhdpi-v4\\top_start_default.9.png"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     },
     {
         "merged": "C:\\Users\\Nathan\\AndroidStudioProjects\\forTheKidz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",

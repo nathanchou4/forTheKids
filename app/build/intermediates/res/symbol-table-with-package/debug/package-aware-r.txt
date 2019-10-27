@@ -573,15 +573,12 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
-<<<<<<< HEAD
+dimen spinner_end_padding
 dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
-=======
-dimen spinner_end_padding
 dimen toolbox_width
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -715,18 +712,14 @@ drawable ic_file_download_white_24dp
 drawable ic_file_upload_white_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-<<<<<<< HEAD
-drawable left_turn
-drawable modal_rounded_edge
-=======
 drawable ic_layers_clear_white_24dp
 drawable ic_play_arrow_white_24dp
 drawable ic_remove_grey600_48dp
 drawable inset_field_border
 drawable inset_field_border_shadow
+drawable left_turn
 drawable modal_rounded_edge
 drawable mutator_icon_24dp
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -739,12 +732,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-<<<<<<< HEAD
-drawable right_turn
-drawable rounded_edge
-drawable step_forward
-=======
 drawable reset_view
+drawable right_turn
 drawable rounded_edge
 drawable rounded_rect_opaque_white
 drawable statementinput_bottom
@@ -754,10 +743,10 @@ drawable statementinput_top
 drawable statementinput_top_border
 drawable statementinput_top_connection
 drawable statementinput_top_shadow
+drawable step_forward
 drawable toolbox_tab_bg
 drawable toolbox_tab_bg_normal
 drawable toolbox_tab_bg_selected
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable top_start_default
@@ -826,11 +815,8 @@ id always
 id async
 id barrier
 id beginning
-<<<<<<< HEAD
 id block_layout
-=======
 id block_list_view
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 id blocking
 id blockly_categories
 id blockly_center_view_button
@@ -845,12 +831,9 @@ id bottom
 id bottomWindow
 id button
 id buttonPanel
-<<<<<<< HEAD
 id cancel_action
-=======
 id category_tabs
 id ccw
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 id center
 id center_horizontal
 id center_vertical
@@ -860,10 +843,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id closeModalButton
-<<<<<<< HEAD
 id close_modal_button
-=======
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 id collapseActionView
 id content
 id contentPanel
@@ -1037,10 +1017,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
-<<<<<<< HEAD
-layout fragment_modal
-=======
-layout blockly_test
 layout blockly_unified_workspace
 layout blockly_variable_name_dialog
 layout category_label_view
@@ -1063,10 +1039,10 @@ layout default_spinner_closed_item
 layout default_spinner_dropdown_item
 layout default_toolbox_tab
 layout drawers_and_action_bar
+layout fragment_modal
 layout fragment_workspace
 layout if_else_mutator_dialog
 layout name_variable_view
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1093,11 +1069,8 @@ layout simple_button
 layout simple_label
 layout support_simple_spinner_dropdown_item
 layout test_modal
-<<<<<<< HEAD
-=======
 menu blockly_default_actionbar
 menu global
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description
@@ -1148,9 +1121,6 @@ string action_save
 string action_settings
 string action_spaghetti
 string app_name
-<<<<<<< HEAD
-string hello_blank_fragment
-=======
 string blockly_clipdata_label_default
 string blockly_default_function_name
 string blockly_toolbox_default_category_name
@@ -1161,6 +1131,7 @@ string delete_variable_confirm
 string delete_variable_negative
 string delete_variable_positive
 string delete_variable_title
+string hello_blank_fragment
 string mutator_done
 string mutator_icon_alt_text
 string mutator_ifelse_edit_has_else
@@ -1184,7 +1155,6 @@ string procedure_argument_delete_hint
 string procedure_argument_name_hint
 string rename_variable
 string rename_variable_message
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 string search_menu_title
 string status_bar_notification_info_overflow
 string title_section1

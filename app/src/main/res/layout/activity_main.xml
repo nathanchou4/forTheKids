@@ -26,32 +26,12 @@
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
     </LinearLayout>
-
-<!--    <LinearLayout-->
-<!--        android:id="@+id/middleWindow"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:orientation="vertical"-->
-<!--        android:layout_weight="45"-->
-<!--        android:background="">-->
-<!--        <TextView-->
-<!--            android:id="@+id/middleItem"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="WorkSpace"-->
-<!--            app:layout_constraintBottom_toBottomOf="parent"-->
-<!--            app:layout_constraintLeft_toLeftOf="parent"-->
-<!--            app:layout_constraintRight_toRightOf="parent"-->
-<!--            app:layout_constraintTop_toTopOf="parent" />-->
-
-<!--    </LinearLayout>-->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
+        android:background="@android:color/darker_gray"
         android:layout_weight="45">
-
-<<<<<<< HEAD
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent">
@@ -75,13 +55,6 @@
             </LinearLayout>
 
         </ScrollView>
-
-=======
-        <fragment android:name="com.google.blockly.android.WorkspaceFragment"
-            android:id="@+id/blockly_workspace"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
     </LinearLayout>
 
     <LinearLayout
@@ -110,11 +83,7 @@
                 <Button
                     android:onClick="showModal"
                     android:id="@+id/testButton"
-<<<<<<< HEAD
                     android:text="MOTION"
-=======
-                    android:text="Test"
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
                     android:background="@drawable/rounded_edge"
                     android:layout_width="100dp"
                     android:layout_height="100dp"

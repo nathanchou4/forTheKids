@@ -139,10 +139,15 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="angle_bg">#ffaaaaaa</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
+    <color name="blockly_edit_text_bg">#80ffffff</color>
+    <color name="blockly_spinner_dropdown_bg">#ffeeeeee</color>
+    <color name="blockly_toolbox_bg">#80FFFFFF</color>
+    <color name="blockly_trash_bg">#80808080</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -154,16 +159,19 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
+    <color name="date_bg">#ffaaaaaa</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="error_color_material_dark">#ff7043</color>
     <color name="error_color_material_light">#ff5722</color>
+    <color name="field_text">#ff212121</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
+    <color name="label_text">@android:color/white</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -176,6 +184,7 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
+    <color name="mutator_background_color">#ffbbbbff</color>
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">#ff424242</color>
@@ -199,6 +208,8 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
+    <color name="translucent">#00000000</color>
+    <color name="white">#fff</color>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -274,6 +285,8 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
     <dimen name="compat_button_inset_vertical_material">6dp</dimen>
     <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
@@ -283,6 +296,7 @@
     <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <dimen name="field_horizontal_spacing">8dip</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
@@ -290,6 +304,9 @@
     <item format="float" name="hint_alpha_material_light" type="dimen">0.38</item>
     <item format="float" name="hint_pressed_alpha_material_dark" type="dimen">0.70</item>
     <item format="float" name="hint_pressed_alpha_material_light" type="dimen">0.54</item>
+    <dimen name="min_block_width">32dp</dimen>
+    <dimen name="min_field_width">30dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
     <dimen name="notification_action_icon_size">32dp</dimen>
     <dimen name="notification_action_text_size">13sp</dimen>
     <dimen name="notification_big_circle_margin">12dp</dimen>
@@ -305,10 +322,12 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="spinner_end_padding">36dip</dimen>
     <dimen name="subtitle_corner_radius">2dp</dimen>
     <dimen name="subtitle_outline_width">2dp</dimen>
     <dimen name="subtitle_shadow_offset">2dp</dimen>
     <dimen name="subtitle_shadow_radius">2dp</dimen>
+    <dimen name="toolbox_width">1000dp</dimen>
     <dimen name="tooltip_corner_radius">2dp</dimen>
     <dimen name="tooltip_horizontal_padding">16dp</dimen>
     <dimen name="tooltip_margin">8dp</dimen>
@@ -317,6 +336,7 @@
     <dimen name="tooltip_vertical_padding">6.5dp</dimen>
     <dimen name="tooltip_y_offset_non_touch">0dp</dimen>
     <dimen name="tooltip_y_offset_touch">16dp</dimen>
+    <dimen name="unified_workspace_min_trash_height">48dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -380,10 +400,58 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_airstrike">Airstrike</string>
+    <string name="action_carpet_bomb">Carpet Bomb</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_load">Load</string>
+    <string name="action_run">Run</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_spaghetti">Spaghetti</string>
     <string name="app_name">For the Kidz</string>
+    <string name="blockly_clipdata_label_default">Blockly blocks</string>
+    <string name="blockly_default_function_name">do something</string>
+    <string name="blockly_toolbox_default_category_name">Blocks</string>
+    <string name="cannot_delete_variable_procedure">Can\'t delete the variable \"%1$s\" because it\'s part of the definition of the function \"%2$s\".</string>
+    <string name="create_variable">New variable</string>
+    <string name="delete_variable">Delete variable\u2026"</string>
+    <string name="delete_variable_confirm">Delete variable %1$s and %2$d blocks using it?</string>
+    <string name="delete_variable_negative">Cancel</string>
+    <string name="delete_variable_positive">Delete</string>
+    <string name="delete_variable_title">Delete variable</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mutator_done">Done</string>
+    <string name="mutator_icon_alt_text">Modify the block\'s shape.</string>
+    <string name="mutator_ifelse_edit_has_else">Final “else” statement?</string>
+    <string name="mutator_ifelse_edit_ifelse_count">Number of “if” tests: %d</string>
+    <string name="mutator_ifelse_edit_title">Update if else block</string>
+    <string name="mutator_ifelse_label_else">else</string>
+    <string name="mutator_ifelse_label_else_if">else if</string>
+    <string name="mutator_ifelse_label_if">if</string>
+    <string name="mutator_ifelse_label_then">do</string>
+    <string name="mutator_procedure_def_before_params">with:</string>
+    <string name="mutator_procedure_def_header_format">%1$s with:</string>
+    <string name="mutator_procedure_def_title">Function Inputs</string>
+    <string name="name_variable_message">New variable name</string>
+    <string name="name_variable_negative">Cancel</string>
+    <string name="name_variable_positive">OK</string>
+    <string name="name_variable_title">Variable name</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="procedure_argument_add_label">Add argument</string>
+    <string name="procedure_argument_delete_hint">Delete argument</string>
+    <string name="procedure_argument_name_hint">Argument name</string>
+    <string name="rename_variable">Rename variable\u2026"</string>
+    <string name="rename_variable_message">Rename variable from "%s"</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="toast_workspace_file_not_found">Couldn\'t find saved workspace.</string>
+    <string name="toast_workspace_load_failed">Failed to load workspace.</string>
+    <string name="toast_workspace_not_saved">Couldn\'t save workspace.</string>
+    <string name="toast_workspace_saved">Saved workspace contents.</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1455,6 +1523,30 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
+    <style name="BlocklyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="minScale">0.5</item>
+        <item name="maxScale">2.5</item>
+        <item name="defaultScale">1.0</item>
+    </style>
+    <style name="BlocklyVerticalTheme" parent="BlocklyTheme">
+        <item name="blockTextSize">24sp</item>
+        <item name="blockHat">false</item>
+    </style>
+    <style name="CategoryLabelStyle" parent="DefaultCategoryLabelStyle">
+    </style>
+    <style name="DefaultCategoryLabelStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="DefaultSpinnerDropDownStyle">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:background">@color/blockly_spinner_dropdown_bg</item>
+        <item name="android:padding">4dip</item>
+    </style>
+    <style name="DefaultSpinnerStyle" parent="@style/TextAppearance.AppCompat.Widget.TextView.SpinnerItem">
+        <item name="android:textSize">@dimen/abc_text_size_large_material</item>
+        <item name="android:background">@android:drawable/btn_dropdown</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme.Holo">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
@@ -2517,6 +2609,39 @@
 
         <attr format="string" name="viewInflaterClass"/>
     </declare-styleable>
+    <declare-styleable name="BasicFieldDropdownView"><attr format="reference" name="itemLayout"/><attr format="reference" name="dropdownItemLayout"/></declare-styleable>
+    <declare-styleable name="BlocklyCategory"><attr name="labelRotation">
+            
+            <flag name="none" value="0x00000000"/> 
+            <flag name="cw" value="0x00000001"/> 
+            <flag name="ccw" value="0x00000002"/> 
+            <flag name="left" value="0x00000002"/> 
+            <flag name="right" value="0x00000001"/> 
+            <flag name="start" value="0x00000012"/> 
+            <flag name="end" value="0x00000011"/> 
+        </attr><attr name="scrollOrientation"/></declare-styleable>
+    <declare-styleable name="BlocklyFlyout"><attr format="boolean" name="closeable"/><attr name="scrollOrientation">
+            
+            <flag name="horizontal" value="0"/> 
+            <flag name="vertical" value="1"/> 
+        </attr></declare-styleable>
+    <declare-styleable name="BlocklyVertical"><attr format="dimension|reference" name="blockTextSize"/><attr format="boolean" name="blockHat"/></declare-styleable>
+    <declare-styleable name="BlocklyWorkspaceTheme"><attr format="float|reference" name="minScale"/><attr format="float|reference" name="maxScale"/><attr format="float|reference" name="defaultScale"/><attr name="zoomBehavior">
+            
+            <flag name="fixed" value="1"/>
+
+            
+            <flag name="scrollOnly" value="2"/>
+
+            
+            <flag name="zoomButtonsOnly" value="3"/>
+
+            
+            <flag name="zoomPinchOnly" value="4"/>
+
+            
+            <flag name="zoomPinchAndButtons" value="5"/>
+        </attr></declare-styleable>
     <declare-styleable name="ButtonBarLayout">
         <!-- Whether to automatically stack the buttons when there is not
              enough space to lay them out side-by-side. -->
@@ -3270,6 +3395,7 @@
         <attr format="color" name="subtitleTextColor"/>
         <attr name="android:minHeight"/>
     </declare-styleable>
+    <declare-styleable name="TrashCanView"><attr format="reference" name="defaultIcon"/><attr format="reference" name="onHoverIcon"/></declare-styleable>
     <declare-styleable name="View">
         <!-- Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}. -->
         <attr format="dimension" name="paddingStart"/>
@@ -3324,4 +3450,5 @@
         <attr name="android:inflatedId"/>
         <attr name="android:id"/>
     </declare-styleable>
+    <declare-styleable name="WorkspaceFragment"><attr format="boolean" name="drawGrid"/><attr format="color" name="gridColor"/><attr format="integer" name="gridSpacing"/><attr format="integer" name="gridDotRadius"/><attr format="color" name="backgroundColor"/></declare-styleable>
 </resources>

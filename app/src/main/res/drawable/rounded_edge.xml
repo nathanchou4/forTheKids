@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
@@ -16,22 +15,3 @@
 
     <corners android:radius="10dp" />
 </shape>
-=======
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="rectangle">
-    <stroke
-        android:width="1dp"
-        android:color="#000000"/>
-
-    <solid android:color="#ffffff" />
-
-    <padding
-        android:left="1dp"
-        android:right="1dp"
-        android:bottom="1dp"
-        android:top="1dp" />
-
-    <corners android:radius="10dp" />
-</shape>
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26

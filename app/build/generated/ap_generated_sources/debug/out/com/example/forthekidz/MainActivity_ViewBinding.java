@@ -13,13 +13,7 @@ import java.lang.Override;
 public class MainActivity_ViewBinding implements Unbinder {
   private MainActivity target;
 
-<<<<<<< HEAD
-  private View view7f070091;
-=======
-  private View view7f0700ab;
-
-  private View view7f07003f;
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
+  private View view7f0700b4;
 
   @UiThread
   public MainActivity_ViewBinding(MainActivity target) {
@@ -32,28 +26,13 @@ public class MainActivity_ViewBinding implements Unbinder {
 
     View view;
     view = Utils.findRequiredView(source, R.id.testButton, "method 'showModal'");
-<<<<<<< HEAD
-    view7f070091 = view;
-=======
-    view7f0700ab = view;
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
+    view7f0700b4 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
         target.showModal(p0);
       }
     });
-<<<<<<< HEAD
-=======
-    view = Utils.findRequiredView(source, R.id.closeModalButton, "method 'closeModal'");
-    view7f07003f = view;
-    view.setOnClickListener(new DebouncingOnClickListener() {
-      @Override
-      public void doClick(View p0) {
-        target.closeModal(p0);
-      }
-    });
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
   }
 
   @Override
@@ -63,14 +42,7 @@ public class MainActivity_ViewBinding implements Unbinder {
     target = null;
 
 
-<<<<<<< HEAD
-    view7f070091.setOnClickListener(null);
-    view7f070091 = null;
-=======
-    view7f0700ab.setOnClickListener(null);
-    view7f0700ab = null;
-    view7f07003f.setOnClickListener(null);
-    view7f07003f = null;
->>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
+    view7f0700b4.setOnClickListener(null);
+    view7f0700b4 = null;
   }
 }
