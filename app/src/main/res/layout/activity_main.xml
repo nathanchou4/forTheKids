@@ -70,7 +70,10 @@
                 android:layout_gravity="left">
 
                 <Button
+                    android:onClick="showModal"
                     android:id="@+id/testButton"
+                    android:text="Test"
+                    android:background="@drawable/rounded_edge"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginLeft="10dp"
@@ -79,26 +82,31 @@
                 <Button
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:background="@drawable/rounded_edge"
                     android:layout_marginHorizontal="5dp" />
 
                 <Button
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:background="@drawable/rounded_edge"
                     android:layout_marginHorizontal="5dp" />
 
                 <Button
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:background="@drawable/rounded_edge"
                     android:layout_marginHorizontal="5dp" />
 
                 <Button
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:background="@drawable/rounded_edge"
                     android:layout_marginHorizontal="5dp" />
 
                 <Button
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:background="@drawable/rounded_edge"
                     android:layout_marginHorizontal="5dp" />
 
             </LinearLayout>
