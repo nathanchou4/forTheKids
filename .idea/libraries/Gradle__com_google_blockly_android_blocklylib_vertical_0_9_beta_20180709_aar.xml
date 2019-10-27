@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.blockly.android:blocklylib-vertical:0.9-beta.20180709@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74bcbeec47d69262189a042a7551f088/jetified-blocklylib-vertical-0.9-beta.20180709/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74bcbeec47d69262189a042a7551f088/jetified-blocklylib-vertical-0.9-beta.20180709/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.blockly.android/blocklylib-vertical/0.9-beta.20180709/2f6a8a0a1d1d8007ceeb08aed8e53e006374ddc/blocklylib-vertical-0.9-beta.20180709-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

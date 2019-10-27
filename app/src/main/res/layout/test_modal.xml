@@ -7,10 +7,17 @@
     android:layout_gravity="center">
 
     <TextView
+<<<<<<< HEAD
         android:id="@+id/closeModalButton"
         android:onClick="closeModal"
+=======
+        android:onClick="closeModal"
+        android:id="@+id/closeModalButton"
+>>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
         android:text="X"
         android:textSize="20dp"
         android:layout_marginTop="15dp"
@@ -22,8 +29,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
         android:text="Test Modal"
+<<<<<<< HEAD
         android:layout_marginLeft="20dp"
         android:textSize="20dp"/>
+=======
+        android:textSize="25dp" />
+>>>>>>> 45a7aeb4a1eed0afe223b5ce20eeaae85175dd26
 
 </LinearLayout>
