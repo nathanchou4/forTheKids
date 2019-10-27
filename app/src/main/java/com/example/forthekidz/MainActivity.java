@@ -1,23 +1,37 @@
 package com.example.forthekidz;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.DialogFragment;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 
+import android.app.Dialog;
+import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
+import android.net.Uri;
 import android.os.Bundle;
-import android.widget.LinearLayout;
-import butterknife.BindView;
+import android.view.View;
+
 import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
-
+    Dialog dialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        dialog = new Dialog(this);
     }
 
 
-    @OnClick(R.id.testButton) void onClick() {
-
+    @OnClick(R.id.testButton)
+    public void showModal(View v) {
+        DialogFragment newFragment = ModalFragment.newInstance();
+        newFragment.setShowsDialog(true);
+        newFragment.show(getSupportFragmentManager(), "dialog");
     }
+
+
 }
